@@ -490,7 +490,7 @@ https://www.easyatm.com.tw/wiki/%E5%8F%B2%E5%8A%AA%E6%AF%94%5B%E5%8B%95%E6%BC%AB
                                 <nil key="highlightedColor"/>
                             </label>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="史努比的家人們似乎都感染了隨時想要離家出走去流浪的個性，Marbles一出門可以說是完全不見影子，在設定中穿著鞋子的牠就像是要踏遍所有土地啊！" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="0Sn-B4-r13">
-                                <rect key="frame" x="79" y="305" width="293" height="107"/>
+                                <rect key="frame" x="79" y="305" width="293" height="190"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <color key="textColor" systemColor="labelColor"/>
